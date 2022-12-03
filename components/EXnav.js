@@ -20,7 +20,7 @@ function navbar(){
         </div>
         <a href="./howitworks.html">How its work</a>
         <a href="https://api.whatsapp.com/send?phone=919930088522">Get us On whatsapp</a>
-        <a href="#" onclick="signShow()" class="signbtn">Sign In</a>
+        <a href="./signin.html"  class="signbtn">Sign In</a>
 
         <button id="sfund"> Start a Fundraiser</button>
     </div>
